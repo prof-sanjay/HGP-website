@@ -1,0 +1,5 @@
+node_modules/
+dist/
+tools/screenshots/
+tools/_refs.json
+public/figures/fig_training_curves.png

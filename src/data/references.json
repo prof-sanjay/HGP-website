@@ -1,0 +1,218 @@
+[
+ {
+  "n": 1,
+  "key": "sims1980",
+  "html": "C. A. Sims, <span>“Macroeconomics and reality,”</span> <em>Econometrica</em>, vol. 48, no. 1, pp. 1–48, 1980.",
+  "url": "https://doi.org/10.2307/1912017"
+ },
+ {
+  "n": 2,
+  "key": "candes2018",
+  "html": "E. Candès, Y. Fan, L. Janson, and J. Lv, <span>“Panning for gold: <span>‘model-X’</span> knockoffs for high dimensional controlled variable selection,”</span> <em>J. Roy. Stat. Soc.: Series B (Statistical Methodology)</em>, vol. 80, no. 3, pp. 551–577, 2018.",
+  "url": "https://doi.org/10.1111/rssb.12265"
+ },
+ {
+  "n": 3,
+  "key": "dai2016group",
+  "html": "R. Dai and R. F. Barber, <span>“The knockoff filter for FDR control in group-sparse and multitask regression,”</span> in <em>Proc. 33rd Int. Conf. Mach. Learn. (ICML)</em>, 2016, pp. 1851–1859.",
+  "url": "https://proceedings.mlr.press/v48/daia16.html"
+ },
+ {
+  "n": 4,
+  "key": "wu2019graphwavenet",
+  "html": "Z. Wu, S. Pan, G. Long, J. Jiang, and C. Zhang, <span>“Graph WaveNet for deep spatial-temporal graph modeling,”</span> in <em>Proc. 28th Int. Joint Conf. Artif. Intell. (IJCAI)</em>, 2019, pp. 1907–1913.",
+  "url": "https://doi.org/10.24963/ijcai.2019/264"
+ },
+ {
+  "n": 5,
+  "key": "jiang2023pdformer",
+  "html": "J. Jiang, C. Han, W. X. Zhao, and J. Wang, <span>“PDFormer: Propagation delay-aware dynamic long-range transformer for traffic flow prediction,”</span> in <em>Proc. 37th AAAI Conf. Artif. Intell.</em>, 2023, pp. 4365–4373.",
+  "url": "https://doi.org/10.1609/aaai.v37i4.25556"
+ },
+ {
+  "n": 6,
+  "key": "liu2023staeformer",
+  "html": "H. Liu, Z. Dong, R. Jiang, J. Deng, J. Deng, Q. Chen, and X. Song, <span>“Spatio-temporal adaptive embedding makes vanilla transformer SOTA for traffic forecasting,”</span> in <em>Proc. 32nd ACM Int. Conf. Inf. Knowl. Manage. (CIKM)</em>, 2023, pp. 4125–4129.",
+  "url": "https://doi.org/10.1145/3583780.3615160"
+ },
+ {
+  "n": 7,
+  "key": "wang2026gcmgt",
+  "html": "C. Wang, C. Riccardi, N. Fiorentini, and M. Losa, <span>“A Granger causality-guided multi-graph transformer framework for traffic flow forecasting,”</span> <em>Discover Artif. Intell.</em>, vol. 6, Art. no. 1219, 2026.",
+  "url": "https://doi.org/10.1007/s44163-026-02230-y"
+ },
+ {
+  "n": 8,
+  "key": "li2018dcrnn",
+  "html": "Y. Li, R. Yu, C. Shahabi, and Y. Liu, <span>“Diffusion convolutional recurrent neural network: Data-driven traffic forecasting,”</span> in <em>Proc. Int. Conf. Learn. Represent. (ICLR)</em>, 2018.",
+  "url": "https://openreview.net/forum?id=SJiHXGWAZ"
+ },
+ {
+  "n": 9,
+  "key": "zhao2019tgcn",
+  "html": "L. Zhao, Y. Song, C. Zhang, Y. Liu, P. Wang, T. Lin, M. Deng, and H. Li, <span>“T-GCN: A temporal graph convolutional network for traffic prediction,”</span> <em>IEEE Trans. Intell. Transp. Syst.</em>, vol. 21, no. 9, pp. 3848–3858, 2020.",
+  "url": "https://doi.org/10.1109/TITS.2019.2935152"
+ },
+ {
+  "n": 10,
+  "key": "zheng2024stjgcn",
+  "html": "C. Zheng, X. Fan, S. Pan, H. Jin, Z. Peng, Z. Wu, C. Wang, and P. S. Yu, <span>“Spatio-temporal joint graph convolutional networks for traffic forecasting,”</span> <em>IEEE Trans. Knowl. Data Eng.</em>, vol. 36, no. 1, pp. 372–385, 2024.",
+  "url": "https://doi.org/10.1109/TKDE.2023.3284156"
+ },
+ {
+  "n": 11,
+  "key": "zhu2026industrial",
+  "html": "Y. Zhu, Q. Xiong, and F. Yang, <span>“Graph-conditioned industrial process forecasting with engineering and data-derived relations,”</span> <em>Entropy</em>, vol. 28, Art. no. 1204, 2026.",
+  "url": "https://doi.org/10.3390/e28111204"
+ },
+ {
+  "n": 12,
+  "key": "zhang2026msifa",
+  "html": "Q. Zhang, Z. Wang, C. Zhang, Z. Gu, and Z. Zhao, <span>“Residual adaptation with contextual information and structural priors for traffic flow forecasting,”</span> <em>Discover Computing</em>, vol. 29, Art. no. 786, 2026.",
+  "url": "https://doi.org/10.1007/s10791-026-10694-w"
+ },
+ {
+  "n": 13,
+  "key": "li2026aqi",
+  "html": "B. Li, J. S. Tan, H.-F. Ng, S. P. Lim, X. Wei, W. Xian, and J. Yan, <span>“Multi-horizon AQI forecasting through the heterogeneous fusion of a temporal convolutional network and a graph-conditioned causal transformer,”</span> <em>Applied Sciences</em>, vol. 16, Art. no. 11119, 2026.",
+  "url": "https://doi.org/10.3390/app162211119"
+ },
+ {
+  "n": 14,
+  "key": "pan2026dstfgcn",
+  "html": "T. Pan, X. Zhou, S. Lan, W. Wang, H. Yang, Z. Li, Z. Hou, and Y. Ren, <span>“DSTFGCN: A dynamic spatial-temporal fusion graph convolution network for traffic flow forecasting,”</span> <em>Neural Networks</em>, vol. 201, Art. no. 108989, 2026.",
+  "url": "https://doi.org/10.1016/j.neunet.2026.108989"
+ },
+ {
+  "n": 15,
+  "key": "zhu2026dynamic",
+  "html": "R. Zhu, Y. Wu, X. Wang, L. Chen, and Y. Zhan, <span>“Multisource urban sensing data fusion and dynamic causal graph modeling for explainable traffic state prediction,”</span> <em>Sensors</em>, vol. 26, Art. no. 4547, 2026.",
+  "url": "https://doi.org/10.3390/s26144547"
+ },
+ {
+  "n": 16,
+  "key": "barber2015",
+  "html": "R. F. Barber and E. J. Candès, <span>“Controlling the false discovery rate via knockoffs,”</span> <em>Ann. Statist.</em>, vol. 43, no. 5, pp. 2055–2085, 2015.",
+  "url": "https://doi.org/10.1214/15-AOS1337"
+ },
+ {
+  "n": 17,
+  "key": "chi2025tski",
+  "html": "C.-M. Chi, Y. Fan, C.-K. Ing, and J. Lv, <span>“High-dimensional knockoffs inference for time series data,”</span> <em>J. Amer. Statist. Assoc.</em>, vol. 120, no. 551, pp. 1763–1774, 2025.",
+  "url": "https://doi.org/10.1080/01621459.2024.2431344"
+ },
+ {
+  "n": 18,
+  "key": "uematsu2023",
+  "html": "Y. Uematsu and T. Yamagata, <span>“Discovering the network Granger causality in large vector autoregressive models,”</span> <em>arXiv preprint arXiv:2303.15158</em>, 2023.",
+  "url": "https://arxiv.org/abs/2303.15158"
+ },
+ {
+  "n": 19,
+  "key": "chaudhry2017",
+  "html": "A. Chaudhry, P. Xu, and Q. Gu, <span>“Uncertainty assessment and false discovery rate control in high-dimensional Granger causal inference,”</span> in <em>Proc. 34th Int. Conf. Mach. Learn. (ICML)</em>, 2017, pp. 684–693.",
+  "url": "https://proceedings.mlr.press/v70/chaudhry17a.html"
+ },
+ {
+  "n": 20,
+  "key": "reisach2021",
+  "html": "A. G. Reisach, C. Seiler, and S. Weichwald, <span>“Beware of the simulated DAG! Causal discovery benchmarks may be easy to game,”</span> in <em>Adv. Neural Inf. Process. Syst., vol. 34</em>, 2021, pp. 27772–27784.",
+  "url": "https://proceedings.neurips.cc/paper/2021/hash/e987eff4a7c7b7e580d659feb6f60c1a-Abstract.html"
+ },
+ {
+  "n": 21,
+  "key": "hochreiter1997",
+  "html": "S. Hochreiter and J. Schmidhuber, <span>“Long short-term memory,”</span> <em>Neural Comput.</em>, vol. 9, no. 8, pp. 1735–1780, 1997.",
+  "url": "https://doi.org/10.1162/neco.1997.9.8.1735"
+ },
+ {
+  "n": 22,
+  "key": "yu2018stgcn",
+  "html": "B. Yu, H. Yin, and Z. Zhu, <span>“Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting,”</span> in <em>Proc. 27th Int. Joint Conf. Artif. Intell. (IJCAI)</em>, 2018, pp. 3634–3640.",
+  "url": "https://doi.org/10.24963/ijcai.2018/505"
+ },
+ {
+  "n": 23,
+  "key": "oord2016wavenet",
+  "html": "<span class=\"nocase\">A. van den Oord <em>et al.</em></span>, <span>“WaveNet: A generative model for raw audio,”</span> <em>arXiv preprint arXiv:1609.03499</em>, 2016.",
+  "url": "https://arxiv.org/abs/1609.03499"
+ },
+ {
+  "n": 24,
+  "key": "liu2023largest",
+  "html": "X. Liu, Y. Xia, Y. Liang, J. Hu, Y. Wang, L. Bai, C. Huang, Z. Liu, B. Hooi, and R. Zimmermann, <span>“LargeST: A benchmark dataset for large-scale traffic forecasting,”</span> in <em>Adv. Neural Inf. Process. Syst., Datasets and Benchmarks Track, vol. 36</em>, 2023.",
+  "url": "https://arxiv.org/abs/2306.08259"
+ },
+ {
+  "n": 25,
+  "key": "vaswani2017attention",
+  "html": "<span class=\"nocase\">A. Vaswani <em>et al.</em></span>, <span>“Attention is all you need,”</span> in <em>Adv. Neural Inf. Process. Syst., vol. 30</em>, 2017.",
+  "url": "https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html"
+ },
+ {
+  "n": 26,
+  "key": "kong2020stgat",
+  "html": "X. Kong, W. Xing, X. Wei, P. Bao, J. Zhang, and W. Lu, <span>“STGAT: Spatial-temporal graph attention networks for traffic flow forecasting,”</span> <em>IEEE Access</em>, vol. 8, pp. 134363–134372, 2020.",
+  "url": "https://doi.org/10.1109/ACCESS.2020.3011186"
+ },
+ {
+  "n": 27,
+  "key": "ning2025stcfgnn",
+  "html": "N. Ning, W. Zhang, W. Li, H. Li, Y. Zhang, Y. Zhou, and F. Liu, <span>“Spatial-temporal causal fusion graph neural networks for urban traffic prediction,”</span> <em>Computer Networks</em>, vol. 271, Art. no. 111582, 2025.",
+  "url": "https://doi.org/10.1016/j.comnet.2025.111582"
+ },
+ {
+  "n": 28,
+  "key": "liu2025causalgrit",
+  "html": "S. Liu, J. Ying, and F. Bai, <span>“CausalGRIT: Causal graph reasoning for traffic congestion prediction—From statistical association to causal intervention,”</span> in <em>Proc. 33rd ACM Int. Conf. Adv. Geographic Inf. Syst. (SIGSPATIAL)</em>, 2025, pp. 173–185.",
+  "url": "https://doi.org/10.1145/3748636.3762721"
+ },
+ {
+  "n": 29,
+  "key": "bai2021a3tgcn",
+  "html": "J. Bai, J. Zhu, Y. Song, L. Zhao, Z. Hou, R. Du, and H. Li, <span>“A3T-GCN: Attention temporal graph convolutional network for traffic forecasting,”</span> <em>ISPRS Int. J. Geo-Inf.</em>, vol. 10, no. 7, Art. no. 485, 2021.",
+  "url": "https://doi.org/10.3390/ijgi10070485"
+ },
+ {
+  "n": 30,
+  "key": "zhang2024adpstgcn",
+  "html": "X. Zhang, X. Chen, H. Tang, Y. Wu, H. Shen, and J. Li, <span>“AdpSTGCN: Adaptive spatial-temporal graph convolutional network for traffic forecasting,”</span> <em>Knowledge-Based Systems</em>, vol. 301, Art. no. 112295, 2024.",
+  "url": "https://doi.org/10.1016/j.knosys.2024.112295"
+ },
+ {
+  "n": 31,
+  "key": "zhu2026activecausality",
+  "html": "J. Zhu, J. Yuan, F. Ye, T.-T. Nguyen, R. Wang, W. Zeng, and C.-C. Liu, <span>“Traffic prediction using an active causality recurrent graph convolutional network,”</span> <em>Expert Systems with Applications</em>, vol. 298, Part B, Art. no. 129506, 2026.",
+  "url": "https://doi.org/10.1016/j.eswa.2025.129506"
+ },
+ {
+  "n": 32,
+  "key": "jinia2025gtngcn",
+  "html": "S. N. Jinia, S. B. Azad, R. Akter, T. R. Dipto, and M. Khaliluzzaman, <span>“GTN-GCN: Real-time traffic forecasting using graph convolutional network and transformer,”</span> <em>Applied Computational Intelligence and Soft Computing</em>, vol. 2025, Art. no. 5572638, 2025.",
+  "url": "https://doi.org/10.1155/acis/5572638"
+ },
+ {
+  "n": 33,
+  "key": "zhao2023stcgat",
+  "html": "W. Zhao, S. Zhang, B. Wang, and B. Zhou, <span>“Spatio-temporal causal graph attention network for traffic flow prediction in intelligent transportation systems,”</span> <em>PeerJ Comput. Sci.</em>, vol. 9, Art. no. e1484, 2023.",
+  "url": "https://doi.org/10.7717/peerj-cs.1484"
+ },
+ {
+  "n": 34,
+  "key": "shao2022stid",
+  "html": "Z. Shao, Z. Zhang, F. Wang, W. Wei, and Y. Xu, <span>“Spatial-temporal identity: A simple yet effective baseline for multivariate time series forecasting,”</span> in <em>Proc. 31st ACM Int. Conf. Inf. Knowl. Manage. (CIKM)</em>, 2022, pp. 4454–4458.",
+  "url": "https://doi.org/10.1145/3511808.3557702"
+ },
+ {
+  "n": 35,
+  "key": "fang2023stwave",
+  "html": "Y. Fang, Y. Qin, H. Luo, F. Zhao, B. Xu, L. Zeng, and C. Wang, <span>“When spatio-temporal meet wavelets: Disentangled traffic forecasting via efficient spectral graph attention networks,”</span> in <em>Proc. IEEE 39th Int. Conf. Data Eng. (ICDE)</em>, 2023, pp. 517–529.",
+  "url": "https://ieeexplore.ieee.org/document/10184591"
+ },
+ {
+  "n": 36,
+  "key": "fang2025efficient",
+  "html": "Y. Fang, Y. Liang, B. Hui, Z. Shao, L. Deng, X. Liu, X. Jiang, and K. Zheng, <span>“Efficient large-scale traffic forecasting with transformers: A spatial data management perspective,”</span> in <em>Proc. 31st ACM SIGKDD Conf. Knowl. Discov. Data Min. (KDD)</em>, 2025, pp. 307–317.",
+  "url": "https://arxiv.org/abs/2412.09972"
+ }
+]
