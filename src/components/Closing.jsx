@@ -153,6 +153,7 @@ export function Footer() {
           <p className="footer-title">{project.title}</p>
           <p>M.Tech Dissertation (Phase I) · {project.year}</p>
           <p>Thesis advisor: {project.advisor}</p>
+          <p>Source code: <a href={project.code} target="_blank" rel="noopener noreferrer">github.com/prof-sanjay/HGP</a></p>
           <p><a href="#home">Back to top</a></p>
         </div>
       </div>

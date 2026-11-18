@@ -17,6 +17,7 @@ export const project = {
   chairperson: "Dr. P. Bagavathi Sivakumar",
   date: "November 2026",
   year: "2026",
+  code: "https://github.com/prof-sanjay/HGP",
 };
 
 export const certificateText =

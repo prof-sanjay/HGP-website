@@ -63,7 +63,7 @@ export function Hero() {
     ["Institution", `${project.school}, ${project.university}, ${project.location}`],
     ["Course", project.course],
     ["Thesis advisor", `${project.advisor}, ${project.advisorDesignation}`],
-    ["Submitted", project.date],
+    ["Source code", <a href={project.code} target="_blank" rel="noopener noreferrer">github.com/prof-sanjay/HGP</a>],
   ];
   return (
     <section id="home" className="hero">
@@ -88,6 +88,7 @@ export function Hero() {
         <div className="buttons">
           <a className="button primary" href="#introduction">Explore Research</a>
           <a className="button" href="#results">View Results</a>
+          <a className="button" href={project.code} target="_blank" rel="noopener noreferrer">Source Code on GitHub</a>
         </div>
       </div>
     </section>
